@@ -28,14 +28,12 @@ body {
 
 .image {
     float: inline-start;
-    width: 50%;
+    width: 15%;
     margin-left: auto;
     margin-right: auto;
     margin: 0 10px 10px 0;
     border: solid 3px rgb(0, 0, 0);
-
 }
-
 .intro,
 .about {
     display: block;
@@ -44,7 +42,7 @@ body {
 }
 
 .list {
-    display: inline-block;
+    display: grid;
 }
 
 .back {
